@@ -1,5 +1,5 @@
-# ExpensEase
-**ExpensEase** is a comprehensive expense tracking management website built using the MERN stack. It provides users with tools to manage their finances effectively by tracking income and expenses, analyzing spending habits, and generating insights. The website includes features like user authentication, responsive design, and real-time updates.
+# ExpensTrack
+**ExpensTrack** is a comprehensive expense tracking management website built using the MERN stack. It provides users with tools to manage their finances effectively by tracking income and expenses, analyzing spending habits, and generating insights. The website includes features like user authentication, responsive design, and real-time updates.
 
 ![Screenshot 2024-12-11 102232](https://github.com/user-attachments/assets/19493004-1da0-4aea-848c-8dedd67afbad)
 
